@@ -6,9 +6,11 @@ function App() {
   return (
     <div>
       <Article />
+      {/* rendering */}
       <Comment />
     </div>
   );
 }
 
 export default App;
+
